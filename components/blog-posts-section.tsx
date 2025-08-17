@@ -58,7 +58,7 @@ export function BlogPostsSection({ posts }: BlogPostsSectionProps) {
               </span>
             </h2>
             <p className="text-lg lg:text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-              마케팅 트렌드와 실무 노하우를 공유합니다. 데이터와 경험을 바탕으로 한 
+              마케팅 트렌드와 실무 노하우를 공유합니다. <span className="text-green-800 font-semibold">AI데이터</span>와 경험을 바탕으로 한 
               깊이 있는 마케팅 인사이트를 만나보세요.
             </p>
           </motion.div>

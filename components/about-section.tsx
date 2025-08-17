@@ -60,7 +60,7 @@ export function AboutSection({ stats, skills }: AboutSectionProps) {
               </span>
             </h2>
             <p className="text-lg lg:text-xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-              고객 중심의 사고와 데이터 기반 분석을 결합하여 의미 있는 성장을 만들어갑니다. 
+              고객 중심의 사고와 <span className="text-green-800 font-semibold">AI데이터</span> 기반 분석을 결합하여 의미 있는 성장을 만들어갑니다. 
               복잡한 마케팅 문제를 창의적이고 효과적인 솔루션으로 해결하는 것을 추구합니다.
             </p>
           </motion.div>
@@ -118,7 +118,7 @@ export function AboutSection({ stats, skills }: AboutSectionProps) {
             </div>
             <blockquote className="text-lg lg:text-xl text-center italic text-neutral-700 dark:text-neutral-300 max-w-4xl mx-auto mt-8">
               마케팅은 단순한 광고가 아니라 브랜드와 고객 간의 진정한 연결고리라고 믿습니다. 
-              데이터로 검증된 전략과 창의적인 스토리텔링을 통해 고객의 마음을 움직이고, 
+              <span className="text-green-800 font-semibold">AI데이터</span>로 검증된 전략과 창의적인 스토리텔링을 통해 고객의 마음을 움직이고, 
               브랜드의 지속가능한 성장을 만들어가는 것이 저의 목표입니다.
             </blockquote>
             <div className="text-center mt-6">

@@ -6,8 +6,8 @@ export const portfolioData: PortfolioData = {
     title: "디지털 마케팅 전문가",
     location: "서울, 대한민국",
     email: "contact@mataxo.com",
-    headline: "데이터 기반의 성장을 이끄는 마케터",
-    subcopy: "창의적 아이디어와 데이터 분석을 결합하여 브랜드의 성장을 만들어갑니다."
+    headline: "AI데이터 기반의 성장을 이끄는 마케터",
+    subcopy: "창의적 아이디어와 AI데이터 분석을 결합하여 브랜드의 성장을 만들어갑니다."
   },
   stats: [
     { label: "마케팅 경력", value: 6, suffix: "년+" },
@@ -28,7 +28,7 @@ export const portfolioData: PortfolioData = {
       ]
     },
     {
-      category: "데이터 분석",
+      category: "AI데이터 분석",
       items: [
         { name: "Google Analytics", level: "Advanced" },
         { name: "Google Tag Manager", level: "Advanced" },
@@ -64,7 +64,7 @@ export const portfolioData: PortfolioData = {
       ],
       caseStudy: {
         problem: "침체된 브랜드 이미지와 낮은 Z세대 인지도",
-        approach: "데이터 기반 타겟팅과 크리에이티브 스토리텔링을 통한 통합 마케팅",
+        approach: "AI데이터 기반 타겟팅과 크리에이티브 스토리텔링을 통한 통합 마케팅",
         impact: "브랜드 인지도 85% 상승, 소셜 참여율 127% 증가, 매출 45% 성장",
         links: [
           { label: "Case Study", href: "https://mataxo.notion.site/brand-rebranding-case-study" },
@@ -135,7 +135,7 @@ export const portfolioData: PortfolioData = {
       period: "2020.06–2022.02",
       bullets: [
         "Facebook/Google 광고 운영으로 월 매출 15억 달성",
-        "데이터 기반 고객 세그멘테이션으로 전환율 85% 향상",
+        "AI데이터 기반 고객 세그멘테이션으로 전환율 85% 향상",
         "크리에이티브 A/B 테스트 프로세스 구축으로 광고 성과 최적화"
       ]
     },
@@ -158,7 +158,7 @@ export const portfolioData: PortfolioData = {
       org: "글로벌 유니콘 기업"
     },
     {
-      quote: "데이터 기반의 정확한 분석과 창의적인 아이디어로 브랜드 성장을 이끌어주었습니다.",
+      quote: "AI데이터 기반의 정확한 분석과 창의적인 아이디어로 브랜드 성장을 이끌어주었습니다.",
       author: "박브랜드",
       role: "브랜드 매니저",
       org: "럭셔리 패션 브랜드"
