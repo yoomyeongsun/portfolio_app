@@ -11,6 +11,7 @@ module.exports = {
       colors: {
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
+        'deep-green': '#006400',
         primary: {
           50: '#eff6ff',
           100: '#dbeafe',

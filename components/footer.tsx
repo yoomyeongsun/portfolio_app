@@ -64,7 +64,7 @@ export function Footer() {
             >
               <h3 className="text-2xl font-bold">MATAXO</h3>
               <p className="text-neutral-400 max-w-md leading-relaxed">
-                <span className="text-green-800 font-semibold">AI데이터</span> 기반의 성장을 이끄는 디지털 마케팅 전문가입니다. 
+                <span className="text-deep-green font-semibold">AI데이터</span> 기반의 성장을 이끄는 디지털 마케팅 전문가입니다. 
                 창의적 아이디어와 분석력으로 브랜드의 성공을 만들어갑니다.
               </p>
               <div className="flex items-center gap-2 text-sm text-neutral-500">
