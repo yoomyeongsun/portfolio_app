@@ -103,11 +103,11 @@ export function HeroSection({ profile, onScrollToProjects, onContact }: HeroSect
           <motion.div variants={itemVariants} className="space-y-4">
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold tracking-tight">
               <span className="bg-gradient-to-r from-primary-600 via-accent-600 to-primary-600 bg-clip-text text-transparent">
-                {profile.headline}
+                <span className="text-deep-green">AI데이터</span> 기반의 성장을 이끄는 마케터
               </span>
             </h1>
             <p className="text-lg sm:text-xl lg:text-2xl text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-              {profile.subcopy}
+              창의적 아이디어와 <span className="text-deep-green font-semibold">AI데이터</span> 분석을 결합하여 브랜드의 성장을 만들어갑니다.
             </p>
           </motion.div>
 
